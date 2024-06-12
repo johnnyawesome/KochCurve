@@ -1,5 +1,5 @@
 # KochCurve
-The Koch Curve coded in P5JS
+The [Koch Curve](https://en.wikipedia.org/wiki/Koch_snowflake) coded in P5JS
 
 It's nicely animated:
 
